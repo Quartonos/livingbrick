@@ -1,0 +1,16 @@
+Hello! Welcome to the Living Brick Website!
+
+1. Sections
+
+- Comics
+    Comics can let you see The Living Brick Comics, for example Fodo's Email.
+
+- Games
+    JavaScript games, should work on every device, unless if you are running these games on a toaster.
+
+2. Utilites
+
+- Clear cache press
+    I made that a square will be made to make sure that touches a button.
+    Now these squares are hell for yea annoying.
+    So this button can resolve this problem.
